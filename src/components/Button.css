@@ -1,0 +1,12 @@
+.button {
+    color: white;
+    font-weight: bold;
+    background-color: blueviolet;
+    border: none;
+    padding: .8em 1em;
+    border-radius: .2rem;
+}
+
+.button:hover {
+    background-color: darkmagenta;
+}
